@@ -1,0 +1,4 @@
+name: Ease
+version: '${project.version}'
+main: autumnstudios.plugins.ease.Ease
+api-version: 1.19
